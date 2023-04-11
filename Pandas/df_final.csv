@@ -1,0 +1,6 @@
+,dept,job,sales,skills SQL,skills Tableau,skillsDL,skillsDjango,skillsML,skillsNLP,skillsPython,skillsReact
+0,HR,manager,180000.0,0,0,0,0,0,0,0,0
+1,IT,data analyst,150000.0,1,1,0,0,0,0,1,0
+2,HR,recruiter,120000.0,0,0,0,0,0,0,0,0
+3,IT,data scientist,170000.0,0,0,1,0,1,1,0,0
+4,IT,frontend developer,120000.0,0,0,0,1,0,0,0,1
